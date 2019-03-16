@@ -1,0 +1,174 @@
+.col-md-3{
+   
+   height: 320px;
+   text-align: center;
+
+}
+    .myButton1 {
+       
+        background-color:white;
+        -moz-border-radius:10px;
+        -webkit-border-radius:10px;
+        border-radius:10px;
+        border:1px solid #4e6096;
+        
+        cursor:pointer;
+        color:rgb(218, 236, 243);
+        font-family:Arial;
+        font-size:19px;
+        padding:10px ;
+        text-decoration:none;
+       
+       
+        
+    }
+    .myButton:hover {
+        background-color:white;
+    }
+    .myButton:active {
+    
+        top:1px;
+    }
+   
+        .myButton2 {
+            
+            background-color:white;
+            -moz-border-radius:10px;
+            -webkit-border-radius:10px;
+            border-radius:10px;
+            border:1px solid rgb(254, 66, 77);
+            
+            cursor:pointer;
+            color:rgb(254, 66, 77);
+            font-family:Arial;
+            font-size:19px;
+            padding:10px ;
+            text-decoration:none;
+           
+       
+            
+        }
+        .myButton:hover {
+            background-color:white;
+        }
+        .myButton:active {
+            
+            top:1px;
+        }
+    
+        .myButton3 {
+            
+            background-color:white;
+            -moz-border-radius:10px;
+            -webkit-border-radius:10px;
+            border-radius:10px;
+            border:1px solid rgb(26, 166, 183);
+            
+            cursor:pointer;
+            color:rgb(26, 166, 183);
+            font-family:Arial;
+            font-size:19px;
+            padding:10px ;
+          
+            text-decoration:none;
+           
+            
+            
+        }
+        .myButton:hover {
+            background-color:white;
+        }
+        .myButton:active {
+            
+            top:1px;
+        }
+        .myButton4 {
+            
+            background-color:white;
+            -moz-border-radius:10px;
+            -webkit-border-radius:10px;
+            border-radius:10px;
+            border:1px solid rgb(2, 45, 65);
+            text-align: center;
+            
+            cursor:pointer;
+            color:rgb(2, 45, 65);
+            font-family:Arial;
+            font-size:19px;
+            padding: 10px;
+           
+            text-decoration:none;
+            
+           
+           
+            
+        }
+        .myButton:hover {
+            background-color:white;
+        }
+        .myButton:active {
+            
+            top:1px;
+        }
+       .box-gris {
+       background-color:rgb(218, 236, 243);
+    
+       text-align: center
+       
+       }
+       .box-red{
+        background-color :rgb(254, 66, 77);
+       
+        color: white;
+        text-align: center
+        }
+        .box-blue{
+            background-color:  rgb(26, 166, 183);
+            color: white
+        }
+        .box-Darkblue{
+            background-color:rgb(2, 45, 65);
+  color: white
+        }
+     
+    h2.label{
+        margin-bottom: 2cm;
+        
+      border: gray  solid 2px;
+      color: gray;
+      border-radius: 20px;
+   padding-left: 30px;
+   padding-right: 30px
+   
+       }
+       
+       p{
+           text-align: center;
+           padding-top: 20px
+      
+       }
+
+     .but{
+        bottom: 10px;
+        right: 120px;
+        width: 150px;
+        height: 40px;
+        position: absolute;
+     }
+      
+      .devider{
+        color: white;
+        font-size: 20px;
+        text-align: center
+       
+      }
+    .underbox{
+        margin: 20px;
+       
+    }
+  h2.x{
+      color: white
+
+  }
+
+  

@@ -1,0 +1,69 @@
+
+.jumbotron{
+    background-image: url("https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/25660384_1532197230204777_6781144117883657902_n.jpg?_nc_cat=106&_nc_ht=scontent.ftun3-1.fna&oh=0a208fc0196b6d9c66aa13bb31ddecb1&oe=5D135AB7");
+    height: 1300px;
+    margin-top: -100px;
+    
+    }
+    .Quelqueschiffres{
+        color: white;
+        font-size: 50px
+    }
+    .col-md-2{
+        color: white;
+       margin-top: 80px;
+       
+       
+       
+    }
+    .text{
+        font-size: 20px
+    }
+    
+    
+    .number{
+        color:gold;
+        font-size: 30px
+    }
+    
+@media (min-width: 900px) {
+ 
+    .jumbotron{
+        background-image: url("https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/25660384_1532197230204777_6781144117883657902_n.jpg?_nc_cat=106&_nc_ht=scontent.ftun3-1.fna&oh=0a208fc0196b6d9c66aa13bb31ddecb1&oe=5D135AB7");
+        height: 900px;
+        margin-top: -100px;
+        
+        }
+        
+        .Quelqueschiffres{
+            color: white;
+            font-size: 50px
+        }
+        .col-md-2{
+            color: white;
+           margin-top: 80px;
+           
+           
+           
+        }
+        .text{
+            font-size: 20px
+        }
+        
+        
+        .number{
+            color:gold;
+            font-size: 30px
+        }
+        
+        .contain{
+        
+            margin: 4cm;
+            
+           
+            
+            }
+        
+        
+  }
+  

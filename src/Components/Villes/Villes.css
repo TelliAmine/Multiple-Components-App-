@@ -1,0 +1,37 @@
+img{
+    width: 8cm;
+    height: 6cm;
+    margin: 10px
+    
+}
+.location-adress{
+    
+    
+    margin: 10px
+}
+.Location-container{
+    text-align: center
+}
+@media (min-width: 600px) {
+    .Location-container{
+        text-align: center
+    }
+    .img-container{
+    
+        display: flex;
+        justify-content: center;
+       flex-flow: wrap 
+       
+    }
+    img{
+        width: 8cm;
+        height: 6cm;
+        margin: 10px
+        
+    }
+    .location-adress{
+    
+    
+        margin: 10px
+    }
+}
